@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="124" failures="0" disabled="0" errors="0" time="4640.8146551" name="Recovery - 50Dragons.xml" dashboardVersion="1.0.270.0">
+  <testsuite name="Recovery.50Dragons.AutoplayRecovery.BetIndex.01.xml" tests="1" failures="0" disabled="0" errors="0" time="5.0941268">
+    <testcase name="Recovery.50Dragons.AutoplayRecovery.BetIndex.01.xml" value_param="" type_param="" status="" time="5.0941268" start_time="12/28/2020 2:32 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.00.BetIndex.00.MinBetLevel.02.MaxBetLevel.05.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7715481">
+    <testcase name="Recovery.50Dragons.FeatureIndex.00.BetIndex.00.MinBetLevel.02.MaxBetLevel.05.xml" value_param="" type_param="" status="" time="3.7715481" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.00.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7291766">
+    <testcase name="Recovery.50Dragons.FeatureIndex.00.BetIndex.00.xml" value_param="" type_param="" status="" time="3.7291766" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.00.BetIndex.09.MinBetLevel.02.MaxBetLevel.05.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6062915">
+    <testcase name="Recovery.50Dragons.FeatureIndex.00.BetIndex.09.MinBetLevel.02.MaxBetLevel.05.xml" value_param="" type_param="" status="" time="3.6062915" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.00.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8553325">
+    <testcase name="Recovery.50Dragons.FeatureIndex.00.BetIndex.09.xml" value_param="" type_param="" status="" time="3.8553325" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.01.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8322795">
+    <testcase name="Recovery.50Dragons.FeatureIndex.01.BetIndex.00.xml" value_param="" type_param="" status="" time="3.8322795" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.01.BetIndex.19.xml" tests="1" failures="0" disabled="0" errors="0" time="3.9763588">
+    <testcase name="Recovery.50Dragons.FeatureIndex.01.BetIndex.19.xml" value_param="" type_param="" status="" time="3.9763588" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.02.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="8.6856916">
+    <testcase name="Recovery.50Dragons.FeatureIndex.02.BetIndex.00.xml" value_param="" type_param="" status="" time="8.6856916" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.02.BetIndex.19.xml" tests="1" failures="0" disabled="0" errors="0" time="8.9015495">
+    <testcase name="Recovery.50Dragons.FeatureIndex.02.BetIndex.19.xml" value_param="" type_param="" status="" time="8.9015495" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.03.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="4.9787535">
+    <testcase name="Recovery.50Dragons.FeatureIndex.03.BetIndex.00.xml" value_param="" type_param="" status="" time="4.9787535" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.03.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="5.1181177">
+    <testcase name="Recovery.50Dragons.FeatureIndex.03.BetIndex.09.xml" value_param="" type_param="" status="" time="5.1181177" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.04.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6600759">
+    <testcase name="Recovery.50Dragons.FeatureIndex.04.BetIndex.00.xml" value_param="" type_param="" status="" time="3.6600759" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.04.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.753923">
+    <testcase name="Recovery.50Dragons.FeatureIndex.04.BetIndex.09.xml" value_param="" type_param="" status="" time="3.753923" start_time="12/28/2020 2:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.05.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7426929">
+    <testcase name="Recovery.50Dragons.FeatureIndex.05.BetIndex.00.xml" value_param="" type_param="" status="" time="3.7426929" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.05.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8731143">
+    <testcase name="Recovery.50Dragons.FeatureIndex.05.BetIndex.09.xml" value_param="" type_param="" status="" time="3.8731143" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.06.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="9.6047683">
+    <testcase name="Recovery.50Dragons.FeatureIndex.06.BetIndex.00.xml" value_param="" type_param="" status="" time="9.6047683" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.06.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="9.8719311">
+    <testcase name="Recovery.50Dragons.FeatureIndex.06.BetIndex.09.xml" value_param="" type_param="" status="" time="9.8719311" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.07.BetIndex.00.MinBetLevel.00.MaxBetLevel.06.xml" tests="1" failures="0" disabled="0" errors="0" time="11.729957">
+    <testcase name="Recovery.50Dragons.FeatureIndex.07.BetIndex.00.MinBetLevel.00.MaxBetLevel.06.xml" value_param="" type_param="" status="" time="11.729957" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.07.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="11.876213">
+    <testcase name="Recovery.50Dragons.FeatureIndex.07.BetIndex.00.xml" value_param="" type_param="" status="" time="11.876213" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.07.BetIndex.09.MinBetLevel.00.MaxBetLevel.06.xml" tests="1" failures="0" disabled="0" errors="0" time="13.0531938">
+    <testcase name="Recovery.50Dragons.FeatureIndex.07.BetIndex.09.MinBetLevel.00.MaxBetLevel.06.xml" value_param="" type_param="" status="" time="13.0531938" start_time="12/28/2020 2:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.07.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="15.1440707">
+    <testcase name="Recovery.50Dragons.FeatureIndex.07.BetIndex.09.xml" value_param="" type_param="" status="" time="15.1440707" start_time="12/28/2020 2:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.08.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6924177">
+    <testcase name="Recovery.50Dragons.FeatureIndex.08.BetIndex.00.xml" value_param="" type_param="" status="" time="3.6924177" start_time="12/28/2020 2:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.08.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6799209">
+    <testcase name="Recovery.50Dragons.FeatureIndex.08.BetIndex.09.xml" value_param="" type_param="" status="" time="3.6799209" start_time="12/28/2020 2:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.09.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.5540941">
+    <testcase name="Recovery.50Dragons.FeatureIndex.09.BetIndex.00.xml" value_param="" type_param="" status="" time="3.5540941" start_time="12/28/2020 2:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.09.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7965588">
+    <testcase name="Recovery.50Dragons.FeatureIndex.09.BetIndex.09.xml" value_param="" type_param="" status="" time="3.7965588" start_time="12/28/2020 2:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.10.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="78.3692573">
+    <testcase name="Recovery.50Dragons.FeatureIndex.10.BetIndex.00.xml" value_param="" type_param="" status="" time="78.3692573" start_time="12/28/2020 2:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.10.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="78.6082655">
+    <testcase name="Recovery.50Dragons.FeatureIndex.10.BetIndex.09.xml" value_param="" type_param="" status="" time="78.6082655" start_time="12/28/2020 2:36 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.11.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.5738865">
+    <testcase name="Recovery.50Dragons.FeatureIndex.11.BetIndex.00.xml" value_param="" type_param="" status="" time="3.5738865" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.11.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7674142">
+    <testcase name="Recovery.50Dragons.FeatureIndex.11.BetIndex.09.xml" value_param="" type_param="" status="" time="3.7674142" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.12.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6970144">
+    <testcase name="Recovery.50Dragons.FeatureIndex.12.BetIndex.00.xml" value_param="" type_param="" status="" time="3.6970144" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.12.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7694724">
+    <testcase name="Recovery.50Dragons.FeatureIndex.12.BetIndex.09.xml" value_param="" type_param="" status="" time="3.7694724" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.13.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7920313">
+    <testcase name="Recovery.50Dragons.FeatureIndex.13.BetIndex.00.xml" value_param="" type_param="" status="" time="3.7920313" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.13.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.620493">
+    <testcase name="Recovery.50Dragons.FeatureIndex.13.BetIndex.09.xml" value_param="" type_param="" status="" time="3.620493" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.14.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="114.4304398">
+    <testcase name="Recovery.50Dragons.FeatureIndex.14.BetIndex.00.xml" value_param="" type_param="" status="" time="114.4304398" start_time="12/28/2020 2:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.14.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="114.2134119">
+    <testcase name="Recovery.50Dragons.FeatureIndex.14.BetIndex.09.xml" value_param="" type_param="" status="" time="114.2134119" start_time="12/28/2020 2:40 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.15.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="110.7295183">
+    <testcase name="Recovery.50Dragons.FeatureIndex.15.BetIndex.00.xml" value_param="" type_param="" status="" time="110.7295183" start_time="12/28/2020 2:42 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.15.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="110.4029656">
+    <testcase name="Recovery.50Dragons.FeatureIndex.15.BetIndex.09.xml" value_param="" type_param="" status="" time="110.4029656" start_time="12/28/2020 2:44 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.16.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="109.1980706">
+    <testcase name="Recovery.50Dragons.FeatureIndex.16.BetIndex.00.xml" value_param="" type_param="" status="" time="109.1980706" start_time="12/28/2020 2:46 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.16.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="109.2299296">
+    <testcase name="Recovery.50Dragons.FeatureIndex.16.BetIndex.09.xml" value_param="" type_param="" status="" time="109.2299296" start_time="12/28/2020 2:47 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.17.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="114.2878004">
+    <testcase name="Recovery.50Dragons.FeatureIndex.17.BetIndex.00.xml" value_param="" type_param="" status="" time="114.2878004" start_time="12/28/2020 2:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.17.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="114.082849">
+    <testcase name="Recovery.50Dragons.FeatureIndex.17.BetIndex.09.xml" value_param="" type_param="" status="" time="114.082849" start_time="12/28/2020 2:51 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.18.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="85.6768095">
+    <testcase name="Recovery.50Dragons.FeatureIndex.18.BetIndex.00.xml" value_param="" type_param="" status="" time="85.6768095" start_time="12/28/2020 2:53 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.18.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="85.5036642">
+    <testcase name="Recovery.50Dragons.FeatureIndex.18.BetIndex.09.xml" value_param="" type_param="" status="" time="85.5036642" start_time="12/28/2020 2:54 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.19.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="133.4373442">
+    <testcase name="Recovery.50Dragons.FeatureIndex.19.BetIndex.00.xml" value_param="" type_param="" status="" time="133.4373442" start_time="12/28/2020 2:56 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.19.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="134.0945479">
+    <testcase name="Recovery.50Dragons.FeatureIndex.19.BetIndex.09.xml" value_param="" type_param="" status="" time="134.0945479" start_time="12/28/2020 2:58 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.20.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="75.5030293">
+    <testcase name="Recovery.50Dragons.FeatureIndex.20.BetIndex.00.xml" value_param="" type_param="" status="" time="75.5030293" start_time="12/28/2020 3:00 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.20.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="75.2511299">
+    <testcase name="Recovery.50Dragons.FeatureIndex.20.BetIndex.09.xml" value_param="" type_param="" status="" time="75.2511299" start_time="12/28/2020 3:02 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.21.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="76.504892">
+    <testcase name="Recovery.50Dragons.FeatureIndex.21.BetIndex.00.xml" value_param="" type_param="" status="" time="76.504892" start_time="12/28/2020 3:03 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.21.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="76.2860038">
+    <testcase name="Recovery.50Dragons.FeatureIndex.21.BetIndex.09.xml" value_param="" type_param="" status="" time="76.2860038" start_time="12/28/2020 3:04 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.22.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="84.4833272">
+    <testcase name="Recovery.50Dragons.FeatureIndex.22.BetIndex.00.xml" value_param="" type_param="" status="" time="84.4833272" start_time="12/28/2020 3:05 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.22.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="84.3029164">
+    <testcase name="Recovery.50Dragons.FeatureIndex.22.BetIndex.09.xml" value_param="" type_param="" status="" time="84.3029164" start_time="12/28/2020 3:07 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.23.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="75.4406973">
+    <testcase name="Recovery.50Dragons.FeatureIndex.23.BetIndex.00.xml" value_param="" type_param="" status="" time="75.4406973" start_time="12/28/2020 3:08 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.23.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="75.2595967">
+    <testcase name="Recovery.50Dragons.FeatureIndex.23.BetIndex.09.xml" value_param="" type_param="" status="" time="75.2595967" start_time="12/28/2020 3:09 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.24.BetIndex.00.MinBetLevel.01.MaxBetLevel.99.xml" tests="1" failures="0" disabled="0" errors="0" time="157.0454557">
+    <testcase name="Recovery.50Dragons.FeatureIndex.24.BetIndex.00.MinBetLevel.01.MaxBetLevel.99.xml" value_param="" type_param="" status="" time="157.0454557" start_time="12/28/2020 3:11 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.24.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="156.6271235">
+    <testcase name="Recovery.50Dragons.FeatureIndex.24.BetIndex.00.xml" value_param="" type_param="" status="" time="156.6271235" start_time="12/28/2020 3:13 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.24.BetIndex.09.MinBetLevel.01.MaxBetLevel.99.xml" tests="1" failures="0" disabled="0" errors="0" time="156.859845">
+    <testcase name="Recovery.50Dragons.FeatureIndex.24.BetIndex.09.MinBetLevel.01.MaxBetLevel.99.xml" value_param="" type_param="" status="" time="156.859845" start_time="12/28/2020 3:16 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.24.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="156.7525657">
+    <testcase name="Recovery.50Dragons.FeatureIndex.24.BetIndex.09.xml" value_param="" type_param="" status="" time="156.7525657" start_time="12/28/2020 3:19 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.25.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7485132">
+    <testcase name="Recovery.50Dragons.FeatureIndex.25.BetIndex.00.xml" value_param="" type_param="" status="" time="3.7485132" start_time="12/28/2020 3:21 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.25.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.4697496">
+    <testcase name="Recovery.50Dragons.FeatureIndex.25.BetIndex.09.xml" value_param="" type_param="" status="" time="3.4697496" start_time="12/28/2020 3:21 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.26.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="12.0541035">
+    <testcase name="Recovery.50Dragons.FeatureIndex.26.BetIndex.00.xml" value_param="" type_param="" status="" time="12.0541035" start_time="12/28/2020 3:21 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.26.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="12.8030817">
+    <testcase name="Recovery.50Dragons.FeatureIndex.26.BetIndex.09.xml" value_param="" type_param="" status="" time="12.8030817" start_time="12/28/2020 3:22 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.27.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="129.2966374">
+    <testcase name="Recovery.50Dragons.FeatureIndex.27.BetIndex.00.xml" value_param="" type_param="" status="" time="129.2966374" start_time="12/28/2020 3:22 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.27.BetIndex.09.MinBetLevel.01.MaxBetLevel.06.xml" tests="1" failures="0" disabled="0" errors="0" time="129.2527047">
+    <testcase name="Recovery.50Dragons.FeatureIndex.27.BetIndex.09.MinBetLevel.01.MaxBetLevel.06.xml" value_param="" type_param="" status="" time="129.2527047" start_time="12/28/2020 3:24 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.27.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="129.307">
+    <testcase name="Recovery.50Dragons.FeatureIndex.27.BetIndex.09.xml" value_param="" type_param="" status="" time="129.307" start_time="12/28/2020 3:26 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.28.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="6.6334552">
+    <testcase name="Recovery.50Dragons.FeatureIndex.28.BetIndex.00.xml" value_param="" type_param="" status="" time="6.6334552" start_time="12/28/2020 3:28 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.28.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="6.8210029">
+    <testcase name="Recovery.50Dragons.FeatureIndex.28.BetIndex.09.xml" value_param="" type_param="" status="" time="6.8210029" start_time="12/28/2020 3:28 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.29.BetIndex.00.MinBetLevel.-01.MaxBetLevel.-01.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7710266">
+    <testcase name="Recovery.50Dragons.FeatureIndex.29.BetIndex.00.MinBetLevel.-01.MaxBetLevel.-01.xml" value_param="" type_param="" status="" time="3.7710266" start_time="12/28/2020 3:28 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.29.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8385987">
+    <testcase name="Recovery.50Dragons.FeatureIndex.29.BetIndex.00.xml" value_param="" type_param="" status="" time="3.8385987" start_time="12/28/2020 3:28 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.29.BetIndex.09.MinBetLevel.-01.MaxBetLevel.-01.xml" tests="1" failures="0" disabled="0" errors="0" time="5.3519211">
+    <testcase name="Recovery.50Dragons.FeatureIndex.29.BetIndex.09.MinBetLevel.-01.MaxBetLevel.-01.xml" value_param="" type_param="" status="" time="5.3519211" start_time="12/28/2020 3:29 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FeatureIndex.29.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7601889">
+    <testcase name="Recovery.50Dragons.FeatureIndex.29.BetIndex.09.xml" value_param="" type_param="" status="" time="3.7601889" start_time="12/28/2020 3:29 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.00.xml" tests="1" failures="0" disabled="0" errors="0" time="79.6854751">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.00.xml" value_param="" type_param="" status="" time="79.6854751" start_time="12/28/2020 3:29 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.01.xml" tests="1" failures="0" disabled="0" errors="0" time="75.022959">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.01.xml" value_param="" type_param="" status="" time="75.022959" start_time="12/28/2020 3:30 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.02.xml" tests="1" failures="0" disabled="0" errors="0" time="76.3724245">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.02.xml" value_param="" type_param="" status="" time="76.3724245" start_time="12/28/2020 3:31 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.03.xml" tests="1" failures="0" disabled="0" errors="0" time="76.5372659">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.03.xml" value_param="" type_param="" status="" time="76.5372659" start_time="12/28/2020 3:33 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.04.xml" tests="1" failures="0" disabled="0" errors="0" time="76.4013247">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.04.xml" value_param="" type_param="" status="" time="76.4013247" start_time="12/28/2020 3:34 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.05.xml" tests="1" failures="0" disabled="0" errors="0" time="76.5837004">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.05.xml" value_param="" type_param="" status="" time="76.5837004" start_time="12/28/2020 3:35 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.06.xml" tests="1" failures="0" disabled="0" errors="0" time="76.3485954">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.06.xml" value_param="" type_param="" status="" time="76.3485954" start_time="12/28/2020 3:36 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.07.xml" tests="1" failures="0" disabled="0" errors="0" time="76.5784716">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.07.xml" value_param="" type_param="" status="" time="76.5784716" start_time="12/28/2020 3:38 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.08.xml" tests="1" failures="0" disabled="0" errors="0" time="76.3241058">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.08.xml" value_param="" type_param="" status="" time="76.3241058" start_time="12/28/2020 3:39 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.09.xml" tests="1" failures="0" disabled="0" errors="0" time="76.8203246">
+    <testcase name="Recovery.50Dragons.FreeSpin.Round.Recovery.FeatureIndex.21.BetIndex.01.Rounds.09.xml" value_param="" type_param="" status="" time="76.8203246" start_time="12/28/2020 3:40 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.MultiRecovery.FeatureIndex.10.BetIndex.01.MinBetLevel.02.MaxBetLevel.05.Rounds.01-09.xml" tests="1" failures="0" disabled="0" errors="0" time="103.9682611">
+    <testcase name="Recovery.50Dragons.MultiRecovery.FeatureIndex.10.BetIndex.01.MinBetLevel.02.MaxBetLevel.05.Rounds.01-09.xml" value_param="" type_param="" status="" time="103.9682611" start_time="12/28/2020 3:41 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.MultiRecovery.FeatureIndex.10.BetIndex.01.Rounds.01-09.xml" tests="1" failures="0" disabled="0" errors="0" time="83.6569691">
+    <testcase name="Recovery.50Dragons.MultiRecovery.FeatureIndex.10.BetIndex.01.Rounds.01-09.xml" value_param="" type_param="" status="" time="83.6569691" start_time="12/28/2020 3:43 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.MultiRecovery.FeatureIndex.20.BetIndex.00.Rounds.01.03.05.08-09.xml" tests="1" failures="0" disabled="0" errors="0" time="76.4223508">
+    <testcase name="Recovery.50Dragons.MultiRecovery.FeatureIndex.20.BetIndex.00.Rounds.01.03.05.08-09.xml" value_param="" type_param="" status="" time="76.4223508" start_time="12/28/2020 3:45 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.MultiRecovery.FeatureIndex.23.BetIndex.00.Rounds.01-09.xml" tests="1" failures="0" disabled="0" errors="0" time="84.6410074">
+    <testcase name="Recovery.50Dragons.MultiRecovery.FeatureIndex.23.BetIndex.00.Rounds.01-09.xml" value_param="" type_param="" status="" time="84.6410074" start_time="12/28/2020 3:46 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6109942">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.00.xml" value_param="" type_param="" status="" time="3.6109942" start_time="12/28/2020 3:47 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.01.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8379134">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.01.xml" value_param="" type_param="" status="" time="3.8379134" start_time="12/28/2020 3:47 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.02.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6712198">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.02.xml" value_param="" type_param="" status="" time="3.6712198" start_time="12/28/2020 3:47 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.03.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8905604">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.03.xml" value_param="" type_param="" status="" time="3.8905604" start_time="12/28/2020 3:47 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.04.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6438051">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.04.xml" value_param="" type_param="" status="" time="3.6438051" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.05.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8362588">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.05.xml" value_param="" type_param="" status="" time="3.8362588" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.06.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6001421">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.06.xml" value_param="" type_param="" status="" time="3.6001421" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.07.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8403154">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.07.xml" value_param="" type_param="" status="" time="3.8403154" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.08.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6654055">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.08.xml" value_param="" type_param="" status="" time="3.6654055" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8760297">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.09.xml" value_param="" type_param="" status="" time="3.8760297" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.10.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7570907">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.10.xml" value_param="" type_param="" status="" time="3.7570907" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.11.xml" tests="1" failures="0" disabled="0" errors="0" time="3.9343134">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.11.xml" value_param="" type_param="" status="" time="3.9343134" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.12.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6185417">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.12.xml" value_param="" type_param="" status="" time="3.6185417" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.13.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8187985">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.13.xml" value_param="" type_param="" status="" time="3.8187985" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.14.xml" tests="1" failures="0" disabled="0" errors="0" time="3.614539">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.14.xml" value_param="" type_param="" status="" time="3.614539" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.15.xml" tests="1" failures="0" disabled="0" errors="0" time="4.0933742">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.15.xml" value_param="" type_param="" status="" time="4.0933742" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.16.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6386251">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.16.xml" value_param="" type_param="" status="" time="3.6386251" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.17.xml" tests="1" failures="0" disabled="0" errors="0" time="6.166349">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.17.xml" value_param="" type_param="" status="" time="6.166349" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.18.xml" tests="1" failures="0" disabled="0" errors="0" time="3.5803164">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.18.xml" value_param="" type_param="" status="" time="3.5803164" start_time="12/28/2020 3:48 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Loss.BetIndex.19.xml" tests="1" failures="0" disabled="0" errors="0" time="3.769568">
+    <testcase name="Recovery.50Dragons.Spin.Loss.BetIndex.19.xml" value_param="" type_param="" status="" time="3.769568" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.00.xml" tests="1" failures="0" disabled="0" errors="0" time="3.715163">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.00.xml" value_param="" type_param="" status="" time="3.715163" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.01.xml" tests="1" failures="0" disabled="0" errors="0" time="3.9402933">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.01.xml" value_param="" type_param="" status="" time="3.9402933" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.02.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6305442">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.02.xml" value_param="" type_param="" status="" time="3.6305442" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.03.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8436139">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.03.xml" value_param="" type_param="" status="" time="3.8436139" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.04.xml" tests="1" failures="0" disabled="0" errors="0" time="3.572467">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.04.xml" value_param="" type_param="" status="" time="3.572467" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.05.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6966782">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.05.xml" value_param="" type_param="" status="" time="3.6966782" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.06.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6245068">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.06.xml" value_param="" type_param="" status="" time="3.6245068" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.07.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8379724">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.07.xml" value_param="" type_param="" status="" time="3.8379724" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.08.xml" tests="1" failures="0" disabled="0" errors="0" time="3.5384281">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.08.xml" value_param="" type_param="" status="" time="3.5384281" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.09.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7210738">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.09.xml" value_param="" type_param="" status="" time="3.7210738" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.10.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6464985">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.10.xml" value_param="" type_param="" status="" time="3.6464985" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.11.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7483105">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.11.xml" value_param="" type_param="" status="" time="3.7483105" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.12.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7398235">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.12.xml" value_param="" type_param="" status="" time="3.7398235" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.13.xml" tests="1" failures="0" disabled="0" errors="0" time="3.7631733">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.13.xml" value_param="" type_param="" status="" time="3.7631733" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.14.xml" tests="1" failures="0" disabled="0" errors="0" time="5.1457622">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.14.xml" value_param="" type_param="" status="" time="5.1457622" start_time="12/28/2020 3:49 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.15.xml" tests="1" failures="0" disabled="0" errors="0" time="3.9514676">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.15.xml" value_param="" type_param="" status="" time="3.9514676" start_time="12/28/2020 3:50 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.16.xml" tests="1" failures="0" disabled="0" errors="0" time="3.6509587">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.16.xml" value_param="" type_param="" status="" time="3.6509587" start_time="12/28/2020 3:50 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.17.xml" tests="1" failures="0" disabled="0" errors="0" time="3.8738707">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.17.xml" value_param="" type_param="" status="" time="3.8738707" start_time="12/28/2020 3:50 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.18.xml" tests="1" failures="0" disabled="0" errors="0" time="3.9891654">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.18.xml" value_param="" type_param="" status="" time="3.9891654" start_time="12/28/2020 3:50 PM" classname="" />
+  </testsuite>
+  <testsuite name="Recovery.50Dragons.Spin.Win.BetIndex.19.xml" tests="1" failures="0" disabled="0" errors="0" time="3.865579">
+    <testcase name="Recovery.50Dragons.Spin.Win.BetIndex.19.xml" value_param="" type_param="" status="" time="3.865579" start_time="12/28/2020 3:50 PM" classname="" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,5 @@
+com\gurock\testrail\APIClient.class
+com\aristocrat\UploadServlet.class
+com\gurock\testrail\APIException.class
+com\aristocrat\TestrailReport.class
+com\aristocrat\GenerateReport.class
